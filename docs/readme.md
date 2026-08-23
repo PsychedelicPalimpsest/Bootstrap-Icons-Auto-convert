@@ -6182,4 +6182,4 @@ In addition to png, you can also use webp, jpg, ps, and pdf. Each with the full 
 <h3>skip-end-btn:</h3>
 <img width="128" src="https://icon.librelearn.eu.org/skip-end-btn/128.webp">
 <br>
-<br><sup>Last generated at Sun Aug 16 00:43:32 2026</sup>
+<br><sup>Last generated at Sun Aug 23 00:44:38 2026</sup>
